@@ -7,10 +7,8 @@ W każdym z 500 kolejnych dni stacja badawcza umiejscowiona na planecie mierzył
 temperaturę w stopniach oraz określała rodzaj chmur. Dane te zawarte są w kolejnych
 wierszach pliku pogoda.txt. Każdy wiersz pliku pogoda.txt zawiera kolejno:
 • numer dnia (od 1 do 500),
-• zmierzoną temperaturę (z dokładnością do jednego miejsca po przecinku, temperatura
-nigdy nie spada poniżej zera),
-• wielkość opadu, jaki miał miejsce tego dnia (w milimetrach, zaokrąglony do liczby
-całkowitej),
+• zmierzoną temperaturę (z dokładnością do jednego miejsca po przecinku, temperatura nigdy nie spada poniżej zera),
+• wielkość opadu, jaki miał miejsce tego dnia (w milimetrach, zaokrąglony do liczbycałkowitej),
 • kategorię chmur (C, S lub 0 – jeśli dzień był bezchmurny),
 • wielkość chmur (od 1 do 5 lub 0 – jeśli dzień był bezchmurny).
 Dane oddzielone są średnikami, pierwszy wiersz jest wierszem nagłówkowym.
