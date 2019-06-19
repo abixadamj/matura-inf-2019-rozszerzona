@@ -1,5 +1,7 @@
 Ćwiczenie na kursie - KK
 
+dopiska nr 2
+
 W pliku liczby.txt znajdź najdłuższy ciąg liczb występujących kolejno po sobie i taki, że
 największy wspólny dzielnik ich wszystkich jest większy od 1 (innymi słowy: istnieje taka
 liczba całkowita większa od 1, która jest dzielnikiem każdej z tych liczb).
