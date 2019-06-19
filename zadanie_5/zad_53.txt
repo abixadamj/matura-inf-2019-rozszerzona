@@ -3,4 +3,5 @@ opad dla każdego rodzaju chmur (kategoria + wielkość, czyli C1, C2, C3, C4, C
 S4, S5). Przedstaw wyniki na wykresie kolumnowym, pamiętając o czytelnym opisie wykresu.
 
 
-tutaj 
+tutaj
+kolejny komentarz w 3
