@@ -1,3 +1,6 @@
+To zadanie wyedytowali K.E.Kasperkowiak
+ATOM
+
 Silnią liczby naturalnej k większej od 0 nazywamy wartość iloczynu 1·2·...·k i oznaczamy
 przez k!.
 Przyjmujemy, że 0!=1. Zatem mamy:
