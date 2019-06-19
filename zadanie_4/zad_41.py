@@ -17,10 +17,10 @@ def potega_3(liczba):
 def log_pot3(liczba):
     wynik = math.log(liczba,3)
     ok = wynik.is_integer()
-    return True if ok else False 
+    return True if ok else False
 
 def log_pot32(liczba):
-    return True if math.log(liczba,3).is_integer() else False 
+    return True if math.log(liczba,3).is_integer() else False
 
 def log_pot33(liczba):
     wynik = math.log(liczba,3)
@@ -28,7 +28,7 @@ def log_pot33(liczba):
     if ok==True:
         return True
     else:
-        return False 
+        return False
 
 
 with open(plik) as f:
@@ -40,14 +40,14 @@ tablica_danych = []
 for elem in dane:
     tablica_danych.append(int(elem))
 
-print(tablica_danych)
+# print(tablica_danych)
 
 poteg_3 = 0
 
 for elem in tablica_danych:
     wyn = log_pot32(elem)
     if wyn:
-        print('test:',elem)
+        # print('test:',elem)
         poteg_3 += 1
 
-print('Znalazlem:',poteg_3)
+print('Znalazlem wynik:',poteg_3)
