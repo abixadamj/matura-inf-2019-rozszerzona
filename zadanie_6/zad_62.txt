@@ -1,0 +1,2 @@
+Podaj listę różnych rodzin zapachów. Dla każdej rodziny podaj jej nazwę, cenę najtańszych
+perfum z tej rodziny i ich nazwę.

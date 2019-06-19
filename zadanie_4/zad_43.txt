@@ -1,0 +1,18 @@
+W pliku liczby.txt znajdź najdłuższy ciąg liczb występujących kolejno po sobie i taki, że
+największy wspólny dzielnik ich wszystkich jest większy od 1 (innymi słowy: istnieje taka
+liczba całkowita większa od 1, która jest dzielnikiem każdej z tych liczb).
+Jako odpowiedź podaj wartość pierwszej liczby w takim ciągu, długość ciągu oraz największą
+liczbę całkowitą, która jest dzielnikiem każdej liczby w tym ciągu. W pliku z danymi jest tylko
+jeden taki ciąg o największej długości.
+Uwaga: Możesz skorzystać z zależności NWD(a, b, c) = NWD(NWD(a, b), c).
+
+Przykład:
+Dla liczb 3, 7, 4, 6, 10, 2, 5 odpowiedzią jest 4 (pierwsza liczba ciągu), 4 (długość ciągu) i 2
+(największy wspólny dzielnik), natomiast dla liczb 5, 70, 28, 42, 98, 1 odpowiedzią jest 70
+(pierwsza liczba ciągu), 4 (długość ciągu) i 14 (największy wspólny dzielnik).
+Odpowiedź dla pliku przyklad.txt: pierwsza liczba ciągu 90, długość 5, największy
+wspólny dzielnik 10.
+Do oceny oddajesz:
+• plik tekstowy wyniki4.txt zawierający odpowiedzi do poszczególnych zadań
+(odpowiedź do każdego zadania powinna być poprzedzona jego numerem)
+• plik(i) zawierający(e) komputerową realizację Twoich obliczeń o nazwie(nazwach):

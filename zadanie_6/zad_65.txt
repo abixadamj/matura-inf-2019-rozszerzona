@@ -1,0 +1,3 @@
+Istnieją marki, których wszystkie perfumy należą do tylko jednej rodziny zapachów. Podaj listę
+wszystkich nazw takich marek. Lista powinna zawierać nazwy marek i nazwy odpowiednich
+rodzin zapachów.

@@ -1,0 +1,3 @@
+Ceny wszystkich perfum marki Mou De Rosine z rodziny o nazwie „orientalno-drzewna”
+zostały obniżone o 15%. Podaj listę zawierającą wszystkie nazwy takich perfum i ich ceny po
+obniżce. Listę posortuj niemalejąco według ceny.

@@ -1,0 +1,13 @@
+Silnią liczby naturalnej k większej od 0 nazywamy wartość iloczynu 1·2·...·k i oznaczamy
+przez k!.
+Przyjmujemy, że 0!=1. Zatem mamy:
+0! = 1,
+1! = 1,
+2! = 1·2 = 2,
+3! = 1·2·3 = 6,
+4! = 1·2·3·4 = 24 itd.
+Dowolną liczbę naturalną możemy rozbić na cyfry, a następnie policzyć sumę silni jej cyfr. Na
+przykład dla liczby 343 mamy 3! + 4! + 3! = 6 + 24 + 6 = 36.
+Podaj, w kolejności ich występowania w pliku liczby.txt, wszystkie liczby, które są równe
+sumie silni swoich cyfr.
+W pliku przyklad.txt znajduje się jedna taka liczba: 145 (1!+4!+5! =1+24+120 =145).
