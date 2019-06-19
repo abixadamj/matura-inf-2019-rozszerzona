@@ -4,3 +4,5 @@ poniższych zadań. Zapisz uzyskane odpowiedzi w pliku wyniki4.txt, poprzedzają
 z nich numerem odpowiedniego zadania.
 Uwaga: Plik przyklad.txt zawiera przykładowe dane spełniające warunki zadania.
 Odpowiedzi dla danych z tego pliku są podane pod treściami zadań.
+
+==================================

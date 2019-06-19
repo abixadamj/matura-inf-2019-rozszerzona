@@ -3,18 +3,12 @@ wyższa niż temperatura dnia poprzedniego. Jest tylko jeden taki ciąg. Podaj n
 i numer ostatniego dnia w takim ciągu.
 Na przykład dla danych:
 dzień temperatura
-34
-3,7
-35
-3,4
-36
-3,5
-37
-3,6
-38
-3,7
-39
-3,5
+34 3,7
+35 3,4
+36 3,5
+37 3,6
+38 3,7
+39 3,5
 pierwszym dniem ciągu spełniającym warunek zadania jest dzień 36, a ostatnim – 38.
 
 Zaraz liczymy
