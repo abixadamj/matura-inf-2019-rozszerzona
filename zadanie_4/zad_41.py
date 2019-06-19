@@ -1,4 +1,5 @@
 import math
+#
 
 plik = 'przyklad.txt'
 
