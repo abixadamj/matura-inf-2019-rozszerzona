@@ -18,3 +18,5 @@ dzień temperatura
 pierwszym dniem ciągu spełniającym warunek zadania jest dzień 36, a ostatnim – 38.
 
 Zaraz liczymy
+
+komentarz
