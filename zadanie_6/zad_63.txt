@@ -1,0 +1,2 @@
+Utwórz uporządkowaną alfabetycznie listę wszystkich nazw marek, które nie zawierają
+w swoich perfumach żadnego składnika mającego w nazwie słowo „paczula”.
