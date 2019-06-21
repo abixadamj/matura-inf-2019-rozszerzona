@@ -1,1 +1,9 @@
+<<<<<<< HEAD:zadanie_5/zad_51aj.txt
 Podaj liczbę dni o temperaturze większej lub równej 20 stopni i jednocześnie o opadzie mniejszym lub równym 5 mm.
+=======
+Podaj liczbę dni o temperaturze większej lub równej 20 stopni i jednocześnie o opadzie
+mniejszym lub równym 5 mm. dfhdf adasd
+l;kfl;kg
+fgdkgl
+jkjk
+>>>>>>> 500adf512243f0be7aee44c2f55a534c8df505f8:zadanie_5/zad_51.txt
