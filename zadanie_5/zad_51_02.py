@@ -25,3 +25,29 @@ for el in dane:
 
 # print(tablica_danych)
 
+tab_ciag = []
+tab_mciag = []
+old_temp = 0
+
+for dzien in tablica_danych:
+    akt_temp = dzien[1]
+    if akt_temp > old_temp:
+        tab_mciag.append(dzien)
+    else:
+        tab_ciag.append(tab_mciag)
+        tab_mciag = []
+    old_temp = akt_temp
+            
+print(tab_ciag)
+
+
+max_dl =0
+for elem in tab_ciag:
+    dl = len(elem)
+    if dl > max_dl:
+        max_ciag = elem[:]
+        max_dl = dl
+    
+print('total:',max_ciag)
+print('==============================',len(max_ciag))
+print('pierwszy dzień',max_ciag[0][0],'ostatni dzień', max_ciag[-1][0])
